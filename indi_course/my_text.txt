@@ -1,0 +1,6 @@
+Hi!
+I'm your friendly file from Python generator. I'm not doing anything special but I just wanna make your life easier.
+Smile!
+
+Here we go again – seems like someone has just edited me!
+Again and again, and all I can say is: hello, I love Python and you, and bye!
